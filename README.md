@@ -19,11 +19,11 @@ I am also actively pursuing online courses and projects to deepen my knowledge a
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm constantly working on Data Science projects.
+👩‍💻 I constantly work on Data Science projects.
 
 🧠 I'm very much interested to solve new problems in programming.
 
-👯‍♀️ I would love to work with someone and help others on a project.
+👯‍♀️ I would love to work with someone and help others on Discord channels.
 
 🤔 I'll always find ways to remembering things.
 
@@ -34,5 +34,5 @@ I am also actively pursuing online courses and projects to deepen my knowledge a
 
 
 ## 🔗 Links
-[![YouTube](https://www.youtube.com/channel/UCLcZCSrwPqxT2y-EPSTDM1g)](https://www.youtube.com/)
-
+[![linkedin](https://www.linkedin.com/)](https://www.linkedin.com/in/vikrala-pavan-kumar-89a655128/)
+[![YouTube](https://www.youtube.com/](https://www.youtube.com/channel/UCLcZCSrwPqxT2y-EPSTDM1g))
